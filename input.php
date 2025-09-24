@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <from action="login.php" method="get">
+    <form action="login.php" method="get">
         아이디 : <input type="text" name="id"><br>
         비밀번호 : <input type="password" name="pw"><br>
         <input type="submit" value="로그인">
